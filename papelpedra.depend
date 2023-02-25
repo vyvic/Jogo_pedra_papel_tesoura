@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677364756 source:d:\linguagem c\papelpedra\main.c
+	<stdio.h>
+	<stdlib.h>
+
